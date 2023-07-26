@@ -1,6 +1,7 @@
 ---
 slug: analisecoletas
 title: Análise Coletas
+sidebar_position: 2
 ---
 
 Ordem | Pergunta | Resultado | Descrição

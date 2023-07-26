@@ -1,6 +1,7 @@
 ---
 slug: conferenciaroteirocliente
 title: Conferência Roteiro x Cliente
+sidebar_position: 3
 ---
 
 Ordem | Pergunta | Resultado | Descrição
