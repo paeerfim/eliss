@@ -42,4 +42,4 @@ site: http://myelis.elisbrasil.com/
 
 ![right](image-7.png)
 
-***Atualizado 27 de Julho***
+***Atualizado 26 de Julho de 2023***
