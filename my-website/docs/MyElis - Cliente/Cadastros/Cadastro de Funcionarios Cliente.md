@@ -4,6 +4,7 @@ title: Cadastro de Funcionarios - Cliente
 sidebar_position: 2
 ---
 
+---
 * Para fazer o cadastro de funcionários acesse o site pelo link, entre com o seu usuário e senha de cliente e clique em **ENTRAR**.
 
 ![Alt text](<../../MyElis - Planta/Login e Acesso/image.png>)

@@ -3,13 +3,13 @@ title: Cadastro de Setores - Cliente
 slug: cadastrosetorescliente
 sidebar_position: 1
 ---
-
+---
 * **No manual de instruções abaixo, apresenta as seguintes funcionalidades.**
 - *Cadastro dos setores do cliente;*
 - *Dimensionamento de produtos por setor*.
 
 * Para cadastrar os setores do cliente, liberar a permissão **Cadastro de Setor > Cliente** (usuario de colaborador aba de cliente);
-* Ao entrar com o usuário do cliente, ao lado direito em **MEUS CADASTROS > SETORES**
+* Ao entrar com o usuário do cliente, siga o caminho **MEUS CADASTROS > SETORES**
 
 ![Alt text](image-3.png)
 

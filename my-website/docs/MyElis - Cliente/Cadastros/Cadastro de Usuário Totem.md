@@ -3,6 +3,7 @@ slug: usuariototem
 title: Cadastro de Usuário - Totem
 sidebar_position: 0
 ---
+---
 *Para realizar o cadastro dos usuários do TOTEM do cliente, e liberar sua permissão de usuário ao totem. Esse cadastro é para operador e motorista.*
 
 * Para fazer o cadastro de usuários do Totem acesse o site pelo link, entre com o seu usuário e senha e clique em **ENTRAR**.
