@@ -16,9 +16,6 @@ site: http://myelis.elisbrasil.com/
 ![Alt text](image-1.png)
 
 ---
-## MyElis Cadastro
-
-### Liberar Acesso
 
 * No menu principal clicar em **CONTROLE DE ACESSO > USUÁRIOS**
 * Serão exibidas as listas de usuários já cadastrados atualmente
