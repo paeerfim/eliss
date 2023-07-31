@@ -1,7 +1,7 @@
 ---
 title: Peças - Consultas
 slug: pecasconsultas
-sidebar_position: 4
+sidebar_position: 3
 ---
 *O Relatório de consulta de peças, apresenta o histórico das movimentações das peças nos setores.*
 
@@ -19,8 +19,17 @@ Site: http://myelis.elisbrasil.com/
 ---
 * O relatório de consulta de peças, apresenta o histórico das movimentações das peças nos setores (Lembrando que só irá aparecer os setores daquele cliente que está logado);
 
+* Nesse relatório é informada a quantidade de higienizações da peça que está sendo consultada;
+
+* No campo RFID da peça, fornecer o número da tag da peça, que pode ser visualizada no Totem de distribuição clicar em BUSCAR;
+
 ![Alt text](image-20.png)
 
 ![Alt text](image-21.png)
 
-![Alt text](image-22.png)
+**Exportação**: 100% da informação
+
+---
+![Alt text](<../../MyElis - Planta/Login e Acesso/image-7.png>)
+
+***Atualizado 31 de julho de 2023***
