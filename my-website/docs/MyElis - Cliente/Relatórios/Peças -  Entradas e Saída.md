@@ -37,5 +37,6 @@ Site: http://myelis.elisbrasil.com/
 
 **Uso**: *Somente para clientes RFID*
 
----
+![Alt text](<../../MyElis - Planta/Login e Acesso/image-7.png>)
 
+***Atualizado 28 de julho de 2023***
